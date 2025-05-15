@@ -1,0 +1,1 @@
+-e "venv/\n__pycache__/\n*.pyc\n.DS_Store\ndata/\n*.csv\n.ipynb_checkpoints/" 
