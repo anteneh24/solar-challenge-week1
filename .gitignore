@@ -1,1 +1,48 @@
--e "venv/\n__pycache__/\n*.pyc\n.DS_Store\ndata/\n*.csv\n.ipynb_checkpoints/" 
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# MyPy and static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# CI/CD
+.github/workflows/__pycache__/
