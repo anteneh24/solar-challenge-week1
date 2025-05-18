@@ -19,7 +19,7 @@
 
   - Drop rows or impute using column median
 
-- Save cleaned dataset to `data/benin_clean.csv`
+- Save cleaned dataset to `data/sierraleone_clean.csv`
 
 #### 3. Time Series Analysis
 
